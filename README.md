@@ -1,5 +1,5 @@
 ### Hello there 👋
-Link to my [LinkedIn](https://www.linkedin.com/in/jcctcybernetsystems/){:target="_blank" rel="noopener"}
+#### Link to my [LinkedIn](https://www.linkedin.com/in/jcctcybernetsystems/)
 
 
 <a href="http://example.com" target="_blank">external link</a>
