@@ -1,6 +1,6 @@
 ### Hello there 👋
 #### Link to my [LinkedIn](https://www.linkedin.com/in/jcctcybernetsystems/)
-
+[![alt text][1.1]][1]
 [1.1]: http://i.imgur.com/tXSoThF.png
 
 <!--
