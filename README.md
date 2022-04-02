@@ -2,7 +2,7 @@
 Link to my [LinkedIn](https://www.linkedin.com/in/jcctcybernetsystems/){:target="_blank" rel="noopener"}
 
 
-[Google]("https://google.com target=_blank")
+<a href="http://example.com" target="_blank">external link</a>
 <!--
 **jcesarprog/jcesarprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
