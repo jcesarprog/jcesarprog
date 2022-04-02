@@ -1,6 +1,6 @@
 ### Hello there 👋
 #### Link to my [LinkedIn](https://www.linkedin.com/in/jcctcybernetsystems/)
-<img src="https://i.imgur.com/rwYRqn6.png" alt="my banner">
+
 <!--
 **jcesarprog/jcesarprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
