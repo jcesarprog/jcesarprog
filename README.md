@@ -1,5 +1,5 @@
 ### Hello there 👋
-[LinkedIn](https://www.linkedin.com/in/jcctcybernetsystems/)
+Link to my [LinkedIn](https://www.linkedin.com/in/jcctcybernetsystems/)
 <!--
 **jcesarprog/jcesarprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
